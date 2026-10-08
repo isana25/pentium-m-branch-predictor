@@ -1,0 +1,5 @@
+traces/
+*.o
+src/predict
+src/predict_extra_credit
+.DS_Store
